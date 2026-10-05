@@ -292,6 +292,13 @@ Some possible improvements for this project are:
 
 ---
 
+🤝 Let's Connect I'd love to connect with fellow learners, developers, and Python enthusiasts! 💙
+
+💼 LinkedIn 🔗 http://www.linkedin.com/in/jiya-kosambiya-86306141b
+
+📧 Email ✉️ jiyakosambiya75@gmail.com
+---
+
 👩‍💻 Author
 
 Jiya Kosmbiya

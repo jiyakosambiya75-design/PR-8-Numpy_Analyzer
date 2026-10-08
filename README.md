@@ -292,6 +292,11 @@ Some possible improvements for this project are:
 
 ---
 
+Explanation video:
+https://drive.google.com/file/d/1IbFmgP16m1nXw20CFGBdi5GKT7ydmOaV/view?usp=drivesdk
+
+---
+
 🤝 Let's Connect I'd love to connect with fellow learners, developers, and Python enthusiasts! 💙
 
 💼 LinkedIn 🔗 http://www.linkedin.com/in/jiya-kosambiya-86306141b
